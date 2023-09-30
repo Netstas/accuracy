@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LzfDEvuhPTe+GUD3B1QfjiRZpZcge09v+l1vR7LGbmr5ZLr+1dSu9hsqf73L6V18qX4gLBvkj2R+6SZOKOaxng==",
+  "dgSpecHash": "N60YrWTjnQKriNQIrS7vgrfnOCXMEyufcfB9z5PJuxKT1iF79lp/N8r/caF3E2ma/twb1iELiFvfF8DDLoAX/Q==",
   "success": true,
-  "projectFilePath": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\authentication.csproj",
+  "projectFilePath": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\authentication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\quangthang\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\quangthang\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

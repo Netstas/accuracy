@@ -2898,11 +2898,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\authentication.csproj",
+      "projectUniqueName": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\authentication.csproj",
       "projectName": "authentication",
-      "projectPath": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\authentication.csproj",
+      "projectPath": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\authentication.csproj",
       "packagesPath": "C:\\Users\\quangthang\\.nuget\\packages\\",
-      "outputPath": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\",
+      "outputPath": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\quangthang\\AppData\\Roaming\\NuGet\\NuGet.Config",

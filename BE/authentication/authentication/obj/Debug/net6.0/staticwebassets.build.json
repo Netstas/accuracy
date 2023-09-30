@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oifLIjFksVmRcCYXbauk5w420o1RCJY0t1CScpiWQCo=",
+  "Hash": "lR8Ru7WbUimAGAw15g+HyRYOmwdvUUtr7jy20Sg2coY=",
   "Source": "authentication",
   "BasePath": "_content/authentication",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "authentication\\wwwroot",
       "Source": "authentication",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\authentication.styles.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\authentication.styles.css",
       "SourceId": "authentication",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/authentication",
       "RelativePath": "authentication.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\authentication.styles.css"
+      "OriginalItemSpec": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\bundle\\authentication.styles.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\authentication.bundle.scp.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\authentication.bundle.scp.css",
       "SourceId": "authentication",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/authentication",
       "RelativePath": "authentication.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\authentication.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\authentication.bundle.scp.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\css\\site.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\css\\site.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\favicon.ico",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\favicon.ico",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\js\\site.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\js\\site.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\00f07c9a-fc28-4bbe-8379-ed2a123c8dc5_c99fab3160256fee2c4fe1742be40ce7.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\00f07c9a-fc28-4bbe-8379-ed2a123c8dc5_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/00f07c9a-fc28-4bbe-8379-ed2a123c8dc5_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\00f07c9a-fc28-4bbe-8379-ed2a123c8dc5_c99fab3160256fee2c4fe1742be40ce7.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\01906eb3-93aa-4902-afcd-5b44de852a25_c99fab3160256fee2c4fe1742be40ce7.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\01906eb3-93aa-4902-afcd-5b44de852a25_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/01906eb3-93aa-4902-afcd-5b44de852a25_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\01906eb3-93aa-4902-afcd-5b44de852a25_c99fab3160256fee2c4fe1742be40ce7.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\02922980-8164-4012-be0f-3f4e37b2c4f9_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\02922980-8164-4012-be0f-3f4e37b2c4f9_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/02922980-8164-4012-be0f-3f4e37b2c4f9_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\02922980-8164-4012-be0f-3f4e37b2c4f9_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\02ac546b-c48b-4d77-bf44-0748ac246e27_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\02ac546b-c48b-4d77-bf44-0748ac246e27_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/02ac546b-c48b-4d77-bf44-0748ac246e27_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\02ac546b-c48b-4d77-bf44-0748ac246e27_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\0fd8f4a8-9bb8-441f-a9a5-5d3cc24ad9e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\0fd8f4a8-9bb8-441f-a9a5-5d3cc24ad9e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/0fd8f4a8-9bb8-441f-a9a5-5d3cc24ad9e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,27 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\0fd8f4a8-9bb8-441f-a9a5-5d3cc24ad9e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\14be37de-78ad-432f-bba1-49269b34ded3_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
+      "BasePath": "_content/authentication",
+      "RelativePath": "Uploads/110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
+    },
+    {
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\14be37de-78ad-432f-bba1-49269b34ded3_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "SourceId": "authentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/14be37de-78ad-432f-bba1-49269b34ded3_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -1173,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\14be37de-78ad-432f-bba1-49269b34ded3_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\14c1d581-f45f-4911-99a6-24742ef90c92_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\14c1d581-f45f-4911-99a6-24742ef90c92_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/14c1d581-f45f-4911-99a6-24742ef90c92_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1190,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\14c1d581-f45f-4911-99a6-24742ef90c92_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\1ec27eb2-2a3f-4bb4-ac71-3215e73643b2_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\1ec27eb2-2a3f-4bb4-ac71-3215e73643b2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/1ec27eb2-2a3f-4bb4-ac71-3215e73643b2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1207,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\1ec27eb2-2a3f-4bb4-ac71-3215e73643b2_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\20df8767-21df-448f-ba24-867c1baae274_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\20df8767-21df-448f-ba24-867c1baae274_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/20df8767-21df-448f-ba24-867c1baae274_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1224,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\20df8767-21df-448f-ba24-867c1baae274_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\23d203a7-c59e-473f-b105-6d2a34a18e8d_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\23d203a7-c59e-473f-b105-6d2a34a18e8d_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/23d203a7-c59e-473f-b105-6d2a34a18e8d_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1241,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\23d203a7-c59e-473f-b105-6d2a34a18e8d_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\2b643406-6b13-4746-81d8-80b80a4f38ec_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\2b643406-6b13-4746-81d8-80b80a4f38ec_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/2b643406-6b13-4746-81d8-80b80a4f38ec_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1258,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\2b643406-6b13-4746-81d8-80b80a4f38ec_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\2f70197b-8c3e-4929-964a-adbfbaee7595_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\2f70197b-8c3e-4929-964a-adbfbaee7595_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/2f70197b-8c3e-4929-964a-adbfbaee7595_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1275,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\2f70197b-8c3e-4929-964a-adbfbaee7595_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\30f69a12-83ab-44dd-8dc2-321282be58a9_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\30f69a12-83ab-44dd-8dc2-321282be58a9_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/30f69a12-83ab-44dd-8dc2-321282be58a9_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1292,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\30f69a12-83ab-44dd-8dc2-321282be58a9_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3176a698-e9a4-452b-8aa3-3e8a9d09d8e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3176a698-e9a4-452b-8aa3-3e8a9d09d8e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/3176a698-e9a4-452b-8aa3-3e8a9d09d8e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1309,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3176a698-e9a4-452b-8aa3-3e8a9d09d8e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\32a0c4e8-6c3e-43b3-9a20-63eb9e940b7e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\32a0c4e8-6c3e-43b3-9a20-63eb9e940b7e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/32a0c4e8-6c3e-43b3-9a20-63eb9e940b7e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1326,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\32a0c4e8-6c3e-43b3-9a20-63eb9e940b7e_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\337efdc4-095c-4519-a2bc-b59d5bd4197d_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\337efdc4-095c-4519-a2bc-b59d5bd4197d_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/337efdc4-095c-4519-a2bc-b59d5bd4197d_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1343,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\337efdc4-095c-4519-a2bc-b59d5bd4197d_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\36d2ea08-a173-477a-b7f3-fa4dbebc8e3f_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\36d2ea08-a173-477a-b7f3-fa4dbebc8e3f_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/36d2ea08-a173-477a-b7f3-fa4dbebc8e3f_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1360,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\36d2ea08-a173-477a-b7f3-fa4dbebc8e3f_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\36e0b7ac-7d93-4086-97ce-2094be4208d7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\36e0b7ac-7d93-4086-97ce-2094be4208d7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/36e0b7ac-7d93-4086-97ce-2094be4208d7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1377,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\36e0b7ac-7d93-4086-97ce-2094be4208d7_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3d389e9a-a254-4532-ad44-a6258c65f6de_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3d389e9a-a254-4532-ad44-a6258c65f6de_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/3d389e9a-a254-4532-ad44-a6258c65f6de_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1394,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3d389e9a-a254-4532-ad44-a6258c65f6de_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3dda858c-73ae-463d-a85d-b947a2d3b633_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3dda858c-73ae-463d-a85d-b947a2d3b633_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/3dda858c-73ae-463d-a85d-b947a2d3b633_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1411,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3dda858c-73ae-463d-a85d-b947a2d3b633_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3e991253-64c1-4aa6-b8e5-71697358771b_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\3e991253-64c1-4aa6-b8e5-71697358771b_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/3e991253-64c1-4aa6-b8e5-71697358771b_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1428,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\3e991253-64c1-4aa6-b8e5-71697358771b_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\43a43aef-9b58-4d79-b2ef-bed6b706ef0c_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\43a43aef-9b58-4d79-b2ef-bed6b706ef0c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/43a43aef-9b58-4d79-b2ef-bed6b706ef0c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1445,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\43a43aef-9b58-4d79-b2ef-bed6b706ef0c_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\45ab13dc-0080-4d5b-82f1-cb65e9a9f138_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\45ab13dc-0080-4d5b-82f1-cb65e9a9f138_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/45ab13dc-0080-4d5b-82f1-cb65e9a9f138_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -1462,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\45ab13dc-0080-4d5b-82f1-cb65e9a9f138_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\4e380870-bf94-434d-9bb6-6c8510f2d788_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\4e380870-bf94-434d-9bb6-6c8510f2d788_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/4e380870-bf94-434d-9bb6-6c8510f2d788_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1479,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\4e380870-bf94-434d-9bb6-6c8510f2d788_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\4f29d133-3512-47a0-80ff-eb35255497a8_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\4f29d133-3512-47a0-80ff-eb35255497a8_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/4f29d133-3512-47a0-80ff-eb35255497a8_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1496,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\4f29d133-3512-47a0-80ff-eb35255497a8_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\50f1d13c-97ab-42c6-b294-3ef61ea1ee5d_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\50f1d13c-97ab-42c6-b294-3ef61ea1ee5d_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/50f1d13c-97ab-42c6-b294-3ef61ea1ee5d_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1513,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\50f1d13c-97ab-42c6-b294-3ef61ea1ee5d_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\523fef8b-e1a0-4f09-b2f1-1542bf9ec1d2_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\523fef8b-e1a0-4f09-b2f1-1542bf9ec1d2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/523fef8b-e1a0-4f09-b2f1-1542bf9ec1d2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1530,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\523fef8b-e1a0-4f09-b2f1-1542bf9ec1d2_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\52de57ea-8ec5-4523-b8c3-f727cbc19783_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\52de57ea-8ec5-4523-b8c3-f727cbc19783_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/52de57ea-8ec5-4523-b8c3-f727cbc19783_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1547,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\52de57ea-8ec5-4523-b8c3-f727cbc19783_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\53e2376d-c1e1-479a-851e-a02f772e5dc2_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\53e2376d-c1e1-479a-851e-a02f772e5dc2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/53e2376d-c1e1-479a-851e-a02f772e5dc2_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1564,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\53e2376d-c1e1-479a-851e-a02f772e5dc2_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\55402347-92ce-4e34-b652-0733b8c0215c_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\55402347-92ce-4e34-b652-0733b8c0215c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/55402347-92ce-4e34-b652-0733b8c0215c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1581,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\55402347-92ce-4e34-b652-0733b8c0215c_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\55d775cc-586f-4295-89dc-a5692b3402b5_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\55d775cc-586f-4295-89dc-a5692b3402b5_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/55d775cc-586f-4295-89dc-a5692b3402b5_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1598,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\55d775cc-586f-4295-89dc-a5692b3402b5_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\579fdcd9-8586-45be-a873-f690374e2447_25a186d4ad770e6262091b958e5aebf0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\579fdcd9-8586-45be-a873-f690374e2447_25a186d4ad770e6262091b958e5aebf0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/579fdcd9-8586-45be-a873-f690374e2447_25a186d4ad770e6262091b958e5aebf0.jpg",
       "AssetKind": "All",
@@ -1615,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\579fdcd9-8586-45be-a873-f690374e2447_25a186d4ad770e6262091b958e5aebf0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\5d1e691e-b459-44b2-81b3-cb57d55512a6_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\5d1e691e-b459-44b2-81b3-cb57d55512a6_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/5d1e691e-b459-44b2-81b3-cb57d55512a6_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1632,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\5d1e691e-b459-44b2-81b3-cb57d55512a6_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\65114ac5-6a1f-4013-a264-f046dac0d276_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\65114ac5-6a1f-4013-a264-f046dac0d276_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/65114ac5-6a1f-4013-a264-f046dac0d276_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -1649,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\65114ac5-6a1f-4013-a264-f046dac0d276_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\6636ed46-2d7a-457a-921d-e64fbc52374e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\6636ed46-2d7a-457a-921d-e64fbc52374e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/6636ed46-2d7a-457a-921d-e64fbc52374e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1666,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\6636ed46-2d7a-457a-921d-e64fbc52374e_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\6c167d78-2c3e-42bc-a27c-6bb99838caf1_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\6c167d78-2c3e-42bc-a27c-6bb99838caf1_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/6c167d78-2c3e-42bc-a27c-6bb99838caf1_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1683,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\6c167d78-2c3e-42bc-a27c-6bb99838caf1_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\724688e4-2f66-4200-8064-fed175da602a_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\724688e4-2f66-4200-8064-fed175da602a_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/724688e4-2f66-4200-8064-fed175da602a_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1700,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\724688e4-2f66-4200-8064-fed175da602a_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\726a52f0-c6a2-4044-89bb-87eae881a68e_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\726a52f0-c6a2-4044-89bb-87eae881a68e_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/726a52f0-c6a2-4044-89bb-87eae881a68e_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -1717,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\726a52f0-c6a2-4044-89bb-87eae881a68e_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7395003d-d11b-43d4-93aa-821ec0c5af92_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7395003d-d11b-43d4-93aa-821ec0c5af92_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/7395003d-d11b-43d4-93aa-821ec0c5af92_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1734,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\7395003d-d11b-43d4-93aa-821ec0c5af92_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7453b7b9-9f30-482f-9237-d79aa9c7c4e4_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7453b7b9-9f30-482f-9237-d79aa9c7c4e4_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/7453b7b9-9f30-482f-9237-d79aa9c7c4e4_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1751,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\7453b7b9-9f30-482f-9237-d79aa9c7c4e4_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\79d01910-5333-4a1f-a21b-b56fbc86265a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\79d01910-5333-4a1f-a21b-b56fbc86265a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/79d01910-5333-4a1f-a21b-b56fbc86265a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1768,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\79d01910-5333-4a1f-a21b-b56fbc86265a_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7ab98f57-10a7-4787-aca0-3a83ed702ec3_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\7ab98f57-10a7-4787-aca0-3a83ed702ec3_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/7ab98f57-10a7-4787-aca0-3a83ed702ec3_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1785,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\7ab98f57-10a7-4787-aca0-3a83ed702ec3_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\85bcd12f-0e87-462f-9e82-c393c4832fab_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\85bcd12f-0e87-462f-9e82-c393c4832fab_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/85bcd12f-0e87-462f-9e82-c393c4832fab_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1802,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\85bcd12f-0e87-462f-9e82-c393c4832fab_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8832a3e2-2dde-4598-8d2b-31a021ad7a11_c13e01f7b872858f1eb13540d5b47338.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8832a3e2-2dde-4598-8d2b-31a021ad7a11_c13e01f7b872858f1eb13540d5b47338.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/8832a3e2-2dde-4598-8d2b-31a021ad7a11_c13e01f7b872858f1eb13540d5b47338.jpg",
       "AssetKind": "All",
@@ -1819,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8832a3e2-2dde-4598-8d2b-31a021ad7a11_c13e01f7b872858f1eb13540d5b47338.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8838916b-13d3-49a3-ab3d-ff5c51222961_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8838916b-13d3-49a3-ab3d-ff5c51222961_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/8838916b-13d3-49a3-ab3d-ff5c51222961_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1836,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8838916b-13d3-49a3-ab3d-ff5c51222961_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\896b2d8b-90ca-4940-a8a5-948d65aac017_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\896b2d8b-90ca-4940-a8a5-948d65aac017_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/896b2d8b-90ca-4940-a8a5-948d65aac017_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1853,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\896b2d8b-90ca-4940-a8a5-948d65aac017_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\89c575aa-f2dd-4fe6-b80f-f49bc51a9eff_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\89c575aa-f2dd-4fe6-b80f-f49bc51a9eff_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/89c575aa-f2dd-4fe6-b80f-f49bc51a9eff_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1870,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\89c575aa-f2dd-4fe6-b80f-f49bc51a9eff_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8a481ef9-dc2d-4560-844d-02c7cec6832a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8a481ef9-dc2d-4560-844d-02c7cec6832a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/8a481ef9-dc2d-4560-844d-02c7cec6832a_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1887,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8a481ef9-dc2d-4560-844d-02c7cec6832a_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8c6b7837-666f-4616-89a1-0b80248a2583_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8c6b7837-666f-4616-89a1-0b80248a2583_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/8c6b7837-666f-4616-89a1-0b80248a2583_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1904,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8c6b7837-666f-4616-89a1-0b80248a2583_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8e5ff199-ac32-476a-b6ee-83d3f9aaae52_c13e01f7b872858f1eb13540d5b47338.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\8e5ff199-ac32-476a-b6ee-83d3f9aaae52_c13e01f7b872858f1eb13540d5b47338.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/8e5ff199-ac32-476a-b6ee-83d3f9aaae52_c13e01f7b872858f1eb13540d5b47338.jpg",
       "AssetKind": "All",
@@ -1921,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\8e5ff199-ac32-476a-b6ee-83d3f9aaae52_c13e01f7b872858f1eb13540d5b47338.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9018e5b4-875f-4294-9b24-464ac172d81f_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9018e5b4-875f-4294-9b24-464ac172d81f_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/9018e5b4-875f-4294-9b24-464ac172d81f_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1938,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9018e5b4-875f-4294-9b24-464ac172d81f_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\91e1d044-ecff-4533-82a6-025932137184_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\91e1d044-ecff-4533-82a6-025932137184_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/91e1d044-ecff-4533-82a6-025932137184_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -1955,10 +1972,27 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\91e1d044-ecff-4533-82a6-025932137184_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\98a3bc8c-d77a-41aa-9c7f-19fb2815717c_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
+      "BasePath": "_content/authentication",
+      "RelativePath": "Uploads/9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg"
+    },
+    {
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\98a3bc8c-d77a-41aa-9c7f-19fb2815717c_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "SourceId": "authentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/98a3bc8c-d77a-41aa-9c7f-19fb2815717c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1972,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\98a3bc8c-d77a-41aa-9c7f-19fb2815717c_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9b12f9a7-3263-4696-b23f-03d6d006b25f_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9b12f9a7-3263-4696-b23f-03d6d006b25f_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/9b12f9a7-3263-4696-b23f-03d6d006b25f_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -1989,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9b12f9a7-3263-4696-b23f-03d6d006b25f_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9befcdbc-8f75-403e-b3de-78bf119a6538_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9befcdbc-8f75-403e-b3de-78bf119a6538_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/9befcdbc-8f75-403e-b3de-78bf119a6538_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2006,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9befcdbc-8f75-403e-b3de-78bf119a6538_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9db13fd1-1862-44c5-a56c-ac3d89cf94c4_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9db13fd1-1862-44c5-a56c-ac3d89cf94c4_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/9db13fd1-1862-44c5-a56c-ac3d89cf94c4_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2023,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9db13fd1-1862-44c5-a56c-ac3d89cf94c4_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9f49e3aa-7d5e-404a-8da1-1d90d18a4258_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\9f49e3aa-7d5e-404a-8da1-1d90d18a4258_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/9f49e3aa-7d5e-404a-8da1-1d90d18a4258_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2040,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\9f49e3aa-7d5e-404a-8da1-1d90d18a4258_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\a103bf25-6243-4b90-9679-5c1631926a04_360eb5b28f24752870084f2af0801fed.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\a103bf25-6243-4b90-9679-5c1631926a04_360eb5b28f24752870084f2af0801fed.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/a103bf25-6243-4b90-9679-5c1631926a04_360eb5b28f24752870084f2af0801fed.jpg",
       "AssetKind": "All",
@@ -2057,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\a103bf25-6243-4b90-9679-5c1631926a04_360eb5b28f24752870084f2af0801fed.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\a16d6389-bb65-4118-bb67-df541b495e58_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\a16d6389-bb65-4118-bb67-df541b495e58_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/a16d6389-bb65-4118-bb67-df541b495e58_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2074,10 +2108,27 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\a16d6389-bb65-4118-bb67-df541b495e58_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ab37aba8-4752-438d-95fd-8cd9a3d621a4_c99fab3160256fee2c4fe1742be40ce7.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
+      "BasePath": "_content/authentication",
+      "RelativePath": "Uploads/a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Uploads\\a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
+    },
+    {
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ab37aba8-4752-438d-95fd-8cd9a3d621a4_c99fab3160256fee2c4fe1742be40ce7.jpg",
+      "SourceId": "authentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/ab37aba8-4752-438d-95fd-8cd9a3d621a4_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "AssetKind": "All",
@@ -2091,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ab37aba8-4752-438d-95fd-8cd9a3d621a4_c99fab3160256fee2c4fe1742be40ce7.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ac612a54-e5f9-4938-8cc0-813dd98025cf_c13e01f7b872858f1eb13540d5b47338.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ac612a54-e5f9-4938-8cc0-813dd98025cf_c13e01f7b872858f1eb13540d5b47338.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/ac612a54-e5f9-4938-8cc0-813dd98025cf_c13e01f7b872858f1eb13540d5b47338.jpg",
       "AssetKind": "All",
@@ -2108,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\ac612a54-e5f9-4938-8cc0-813dd98025cf_c13e01f7b872858f1eb13540d5b47338.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b008f263-e768-4b3e-ac79-aa88f3f4a1d3_83e16e80b871a4b43c54f0cb8f6314f9.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b008f263-e768-4b3e-ac79-aa88f3f4a1d3_83e16e80b871a4b43c54f0cb8f6314f9.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/b008f263-e768-4b3e-ac79-aa88f3f4a1d3_83e16e80b871a4b43c54f0cb8f6314f9.jpg",
       "AssetKind": "All",
@@ -2125,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b008f263-e768-4b3e-ac79-aa88f3f4a1d3_83e16e80b871a4b43c54f0cb8f6314f9.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b53976ad-9ed2-4d64-8a29-e839ad6f49cb_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b53976ad-9ed2-4d64-8a29-e839ad6f49cb_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/b53976ad-9ed2-4d64-8a29-e839ad6f49cb_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2142,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b53976ad-9ed2-4d64-8a29-e839ad6f49cb_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b9b37367-d054-4e12-b504-40a0881102ef_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\b9b37367-d054-4e12-b504-40a0881102ef_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/b9b37367-d054-4e12-b504-40a0881102ef_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2159,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\b9b37367-d054-4e12-b504-40a0881102ef_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\bca2b351-44c9-49a0-ace1-17995f97662c_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\bca2b351-44c9-49a0-ace1-17995f97662c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/bca2b351-44c9-49a0-ace1-17995f97662c_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2176,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\bca2b351-44c9-49a0-ace1-17995f97662c_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\bffc6453-ad56-44b5-a6f1-7288b4c1cbf4_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\bffc6453-ad56-44b5-a6f1-7288b4c1cbf4_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/bffc6453-ad56-44b5-a6f1-7288b4c1cbf4_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2193,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\bffc6453-ad56-44b5-a6f1-7288b4c1cbf4_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c1b94d40-7758-4ba5-8c87-045ce6758d9e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c1b94d40-7758-4ba5-8c87-045ce6758d9e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/c1b94d40-7758-4ba5-8c87-045ce6758d9e_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2210,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c1b94d40-7758-4ba5-8c87-045ce6758d9e_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c20ac40e-9015-4f44-9341-aa6c8b3618e9_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c20ac40e-9015-4f44-9341-aa6c8b3618e9_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/c20ac40e-9015-4f44-9341-aa6c8b3618e9_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -2227,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c20ac40e-9015-4f44-9341-aa6c8b3618e9_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c264034b-ab50-456b-963d-bc23ab474287_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c264034b-ab50-456b-963d-bc23ab474287_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/c264034b-ab50-456b-963d-bc23ab474287_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2244,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c264034b-ab50-456b-963d-bc23ab474287_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c84b62e3-4a65-4708-bfc2-31113c7a56b7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c84b62e3-4a65-4708-bfc2-31113c7a56b7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/c84b62e3-4a65-4708-bfc2-31113c7a56b7_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2261,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c84b62e3-4a65-4708-bfc2-31113c7a56b7_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c9df738f-e3a8-46ae-95e5-431baf3a6804_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\c9df738f-e3a8-46ae-95e5-431baf3a6804_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/c9df738f-e3a8-46ae-95e5-431baf3a6804_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2278,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\c9df738f-e3a8-46ae-95e5-431baf3a6804_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\cac81093-1180-44cd-a714-7ac501f2cdd6_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\cac81093-1180-44cd-a714-7ac501f2cdd6_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/cac81093-1180-44cd-a714-7ac501f2cdd6_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2295,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\cac81093-1180-44cd-a714-7ac501f2cdd6_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\cc2aadd0-9f94-47ea-b9fb-81289a05e2de_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\cc2aadd0-9f94-47ea-b9fb-81289a05e2de_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/cc2aadd0-9f94-47ea-b9fb-81289a05e2de_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -2312,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\cc2aadd0-9f94-47ea-b9fb-81289a05e2de_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\d5f8b83a-9674-4bf4-a101-0fed6fabf059_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\d5f8b83a-9674-4bf4-a101-0fed6fabf059_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/d5f8b83a-9674-4bf4-a101-0fed6fabf059_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",
@@ -2329,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\d5f8b83a-9674-4bf4-a101-0fed6fabf059_5a366a7e65bd37a17ee04108ca5fdabb.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\dd13324a-5392-40b8-ad05-3b9c459ef930_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\dd13324a-5392-40b8-ad05-3b9c459ef930_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/dd13324a-5392-40b8-ad05-3b9c459ef930_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2346,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\dd13324a-5392-40b8-ad05-3b9c459ef930_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\e03ae8d2-4018-438a-8cb1-a9290727308d_c99fab3160256fee2c4fe1742be40ce7.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\e03ae8d2-4018-438a-8cb1-a9290727308d_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/e03ae8d2-4018-438a-8cb1-a9290727308d_c99fab3160256fee2c4fe1742be40ce7.jpg",
       "AssetKind": "All",
@@ -2363,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\e03ae8d2-4018-438a-8cb1-a9290727308d_c99fab3160256fee2c4fe1742be40ce7.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\e813e7cb-8915-433a-bd4c-72c61a2406de_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\e813e7cb-8915-433a-bd4c-72c61a2406de_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/e813e7cb-8915-433a-bd4c-72c61a2406de_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2380,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\e813e7cb-8915-433a-bd4c-72c61a2406de_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\edb5d846-26fe-4918-9b44-e6963bd179b0_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\edb5d846-26fe-4918-9b44-e6963bd179b0_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/edb5d846-26fe-4918-9b44-e6963bd179b0_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2397,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\edb5d846-26fe-4918-9b44-e6963bd179b0_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\efb4bdb8-4ace-4fdf-bb85-f1deae9b38d1_1a6021f849fe1f02b40df452e531d3a0.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\efb4bdb8-4ace-4fdf-bb85-f1deae9b38d1_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/efb4bdb8-4ace-4fdf-bb85-f1deae9b38d1_1a6021f849fe1f02b40df452e531d3a0.jpg",
       "AssetKind": "All",
@@ -2414,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\efb4bdb8-4ace-4fdf-bb85-f1deae9b38d1_1a6021f849fe1f02b40df452e531d3a0.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\f8f7a107-0f53-4277-81e3-730d8c90c0ba_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\f8f7a107-0f53-4277-81e3-730d8c90c0ba_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/f8f7a107-0f53-4277-81e3-730d8c90c0ba_06de19bb1fb8b4457920d78fd7ae2d25.jpg",
       "AssetKind": "All",
@@ -2431,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\Uploads\\f8f7a107-0f53-4277-81e3-730d8c90c0ba_06de19bb1fb8b4457920d78fd7ae2d25.jpg"
     },
     {
-      "Identity": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ff209249-a9b6-42ac-a397-cd013077c47b_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
+      "Identity": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\Uploads\\ff209249-a9b6-42ac-a397-cd013077c47b_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "SourceId": "authentication",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\Freelance\\auth\\BE\\authentication\\authentication\\wwwroot\\",
+      "ContentRoot": "D:\\Freelance\\accuracy\\BE\\authentication\\authentication\\wwwroot\\",
       "BasePath": "_content/authentication",
       "RelativePath": "Uploads/ff209249-a9b6-42ac-a397-cd013077c47b_5a366a7e65bd37a17ee04108ca5fdabb.jpg",
       "AssetKind": "All",

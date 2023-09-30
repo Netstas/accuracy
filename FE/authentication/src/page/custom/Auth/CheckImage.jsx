@@ -45,6 +45,10 @@ function UploadImg() {
         </button> */}
 
         <div className="image-previews">
+          <label htmlFor="check">
+            <img src="" alt="" />
+          </label>
+          <input type="checkbox" name="" id="check" value={1} />
           {/* {imagePreviews.map((preview, index) => (
             <div className="position-relative" key={index}>
               <img

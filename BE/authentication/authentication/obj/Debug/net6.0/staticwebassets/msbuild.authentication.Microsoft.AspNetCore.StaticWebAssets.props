@@ -1056,6 +1056,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\0fd8f4a8-9bb8-441f-a9a5-5d3cc24ad9e9_5a366a7e65bd37a17ee04108ca5fdabb.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>authentication</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/authentication</BasePath>
+      <RelativePath>Uploads/110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\110d4a87-2caf-4543-85cf-23af0a07da34_5a366a7e65bd37a17ee04108ca5fdabb.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\14be37de-78ad-432f-bba1-49269b34ded3_06de19bb1fb8b4457920d78fd7ae2d25.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>authentication</SourceId>
@@ -1808,6 +1824,22 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\91e1d044-ecff-4533-82a6-025932137184_5a366a7e65bd37a17ee04108ca5fdabb.jpg))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>authentication</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/authentication</BasePath>
+      <RelativePath>Uploads/9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\9605b50b-f2e4-4e33-9b4b-1137ca4bed10_9ace4739adf470c57eed0d491dfef8ed.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\98a3bc8c-d77a-41aa-9c7f-19fb2815717c_1a6021f849fe1f02b40df452e531d3a0.jpg))">
       <SourceType>Package</SourceType>
       <SourceId>authentication</SourceId>
@@ -1919,6 +1951,22 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\a16d6389-bb65-4118-bb67-df541b495e58_5a366a7e65bd37a17ee04108ca5fdabb.jpg))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg))">
+      <SourceType>Package</SourceType>
+      <SourceId>authentication</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/authentication</BasePath>
+      <RelativePath>Uploads/a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\a5cdd403-c311-40f2-a201-3b494c71edce_06de19bb1fb8b4457920d78fd7ae2d25.jpg))</OriginalItemSpec>
     </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath($(MSBuildThisFileDirectory)..\staticwebassets\Uploads\ab37aba8-4752-438d-95fd-8cd9a3d621a4_c99fab3160256fee2c4fe1742be40ce7.jpg))">
       <SourceType>Package</SourceType>
